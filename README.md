@@ -232,9 +232,3 @@ Building the model was important, but learning how to deploy, troubleshoot, and 
 **Luna Alexa**
 
 Data Science Student — BINUS University
-
-GitHub:
-https://github.com/lunaalexa
-
-Portfolio:
-[Insert Portfolio URL]
