@@ -141,7 +141,10 @@ Streamlit Application
 End User
 
 ---
+🚀 Live Demo
 
+Open The Deployed App Through Streamlit : [[Insert EC2 / Domain URL Here](https://credit-score-prediction-luna.streamlit.app/)]
+---
 
 ## 📈 Results
 
