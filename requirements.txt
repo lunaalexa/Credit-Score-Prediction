@@ -1,0 +1,24 @@
+-e .
+
+# Core
+numpy
+pandas
+
+# Machine Learning
+scikit-learn==1.5.2
+joblib
+
+# Hyperparameter Tuning
+optuna
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebook
+jupyter
+ipywidgets
+altair==5.2.0
+
+# Deployment
+streamlit>=1.30.0
