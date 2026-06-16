@@ -142,34 +142,6 @@ End User
 
 ---
 
-## 🚀 Live Demo
-
-**Web Application:**
-
-[Insert EC2 / Domain URL Here]
-
-Example:
-
-http://your-ec2-public-ip:8501
-
-or
-
-https://creditscore-luna.com
-
----
-
-## 🧪 Deployment Testing
-
-The deployed endpoint was validated using representative test cases from all three credit score categories.
-
-Testing verified:
-
-* Successful endpoint communication
-* Correct prediction outputs
-* Real-time inference functionality
-* End-to-end integration between Streamlit and SageMaker
-
----
 
 ## 📈 Results
 
